@@ -17,3 +17,5 @@ http://swirlstats.com/students.html
 13. Simulation
 14. Dates and Times
 15. Base Graphics
+
+(Note: Some code I referenced from: https://gist.github.com/Atlas7/408bab8df718b7a0c42b#file-swirl-r-programming-console-log-index-page-md)
